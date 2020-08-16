@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5098600-0609-49f7-b8ad-d0f702830901" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1etK5rSA9pL5Lcu0Df3HhiAafWi" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\资料\1红色家园\20年\HduTen\js" />
+      <recent name="D:\资料\1红色家园\20年\HduTen\images" />
+      <recent name="yahu2" />
+      <recent name="D:\资料\1红色家园\20年\HduTen\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5098600-0609-49f7-b8ad-d0f702830901" name="Default Changelist" comment="" />
+      <created>1595135268881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595135268881</updated>
+      <workItem from="1595135270026" duration="8796000" />
+      <workItem from="1595587257807" duration="8182000" />
+      <workItem from="1595600254646" duration="604000" />
+      <workItem from="1595678260725" duration="4038000" />
+      <workItem from="1595745404106" duration="8738000" />
+      <workItem from="1595759784493" duration="1360000" />
+      <workItem from="1595812357512" duration="21051000" />
+      <workItem from="1595907789790" duration="1198000" />
+      <workItem from="1596171795421" duration="2177000" />
+      <workItem from="1597318598403" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

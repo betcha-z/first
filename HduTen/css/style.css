@@ -1,0 +1,226 @@
+html,body{
+    background-color: #ecf0f9;
+    scroll-behavior: smooth;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+span{
+    font-weight: bolder;
+    font-size: 14px;
+    color: #5e5e5e;
+}
+p{
+    margin: 0px;
+    padding-bottom: 10px;
+    line-height: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+p.card-size{
+    line-height: 50px;
+    font-size: 45px;
+}
+h3.text-center {
+    margin: 0px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    letter-spacing: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 楷体;
+}
+/*section changhonglanyue*/
+p.changhong-info{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    line-height: 30px;
+    font-size: 23px;
+    font-family: 隶书;
+    text-indent:46px;
+}
+.changhonglanyue{
+    padding-bottom: 5%;
+    background-color: #f1f1f1;
+}
+/*section judie*/
+.judie-container{
+    position: relative;
+}
+div.judie-info{
+    position: absolute;
+    top: 60px;
+    /*z-index: 20;*/
+}
+p.judie-info {
+    padding-top: 5%;
+    line-height: 30px;
+    font-size: 23px;
+    text-indent: 46px;
+    font-family: 隶书;
+
+}
+img.judie-bg{
+    opacity: 70%;
+}
+/*section yahu*/
+p.yahu-info{
+    line-height: 30px;
+    font-size: 23px;
+    text-indent: 46px;
+    font-family: 隶书;
+    padding: 5%;
+}
+img.yahu-img{
+    padding: 5%;
+    border: #c7ddef 5px solid;
+    border-radius: 5%;
+}
+/*section shuhai*/
+.shuhaifenghe{
+    background-color: #f1f1f1;
+}
+p.shuhai-info{
+    line-height: 30px;
+    font-size: 23px;
+    text-indent: 46px;
+    font-family: 隶书;
+    padding: 3%;
+}
+img.shuhaiimg{
+    width: 30%;
+}
+div.shuhai-img{
+    padding-bottom: 8%;
+    padding-left: 8%;
+    padding-right: 2%;
+}
+/*section lanting*/
+p.lanting-info1, p.lanting-info2{
+    line-height: 30px;
+    font-size: 23px;
+    text-indent: 46px;
+    font-family: 隶书;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+p.lanting-info1{
+    padding-top: 5%;
+}
+p.lanting-info2{
+    padding-bottom: 5%;
+}
+div.lanting-word{
+}
+/*section yiyuan*/
+.yiyuan-container{
+    position: relative;
+}
+div.yiyuan-info{
+    position: absolute;
+    top: 60px;
+    /*z-index: 20;*/
+}
+p.yiyuan-info {
+    padding-top: 3%;
+    line-height: 30px;
+    font-size: 23px;
+    text-indent: 46px;
+    font-family: 隶书;
+
+}
+img.yiyuan-bg{
+    opacity: 50%;
+}
+/*section congyu*/
+p.congyu-info{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    line-height: 30px;
+    font-size: 23px;
+    font-family: 隶书;
+    text-indent:46px;
+}
+.congyutingxue{
+    padding-bottom: 5%;
+}
+/*section sanxing*/
+.sanxingwentian{
+    padding:60px 0;
+    background-color: #f1f1f1;
+}
+p.sanxing-info{
+    font-family: 隶书;
+    font-size: 23px;
+    text-indent: 46px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+section.sanxingwentian img.img-responsive {
+    display:inline;
+    width: 280px;
+    margin-bottom:4px;
+}
+/*section tenglang*/
+.tenglangjimeng{
+    padding-bottom: 5%;
+}
+p.tenglang-info{
+    font-size: 23px;
+    font-family: 隶书;
+    text-indent: 46px;
+    padding-top: 10%;
+}
+img.tenglang-img{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+img.tenglang-pic{
+    border: #c7ddef 5px solid;
+    border-radius: 50%;
+    width: 200px;
+    margin-left: 70%;
+}
+/*section zhengxin*/
+.zhengxinxiudu{
+    background-color: #f1f1f1;
+}
+.circleword{
+    border: #9d9d9d 3px solid;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+p.zhengxin-info{
+    font-family: 隶书;
+    font-size: 23px;
+    text-indent: 46px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+}
+img.zhengxin-img{
+    padding-top:5%;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+.toTop{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    right: 20px;
+    bottom: 60px;
+    transition-timing-function: ease-in;
+}
+.toTop:hover{
+    width:100px;
+    height: 100px;
+    position: fixed;
+    right: 20px;
+    bottom: 60px;
+    opacity: 80%;
+}
